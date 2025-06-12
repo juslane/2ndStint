@@ -1,0 +1,27 @@
+Track,Track Perf,Tyre Wear,Location,Length / km,Length (mile),Soft Tire Wear/Lap,Medium Tire Wear/Lap,Hard Tire Wear/Lap,Soft Min Lap Life,Soft Max Lap Life,Medium Min Lap Life,Medium Max Lap Life,Hard Min Lap Life,Hard Max Lap Life,Soft Avg Lap Time,Medium Avg Lap Time,Hard Avg Lap Time
+Bahrain,Top Speed,High,Asia,5.412,3.363,0.12,0.08,0.06,19,33,26,46,31,54,92.271,93.02,93.502
+Saudi Arabia,Top Speed,High,Asia,6.174,3.836,0.08,0.06,0.04,17,30,23,41,32,57,87.221,87.52,87.986
+Australia,Balanced,Medium,Asia,5.278,3.28,0.08,0.06,0.03,17,31,24,43,34,59,78.2,78.48,78.948
+Azerbaijan,Top Speed,Medium,Asia,6.003,3.73,0.09,0.07,0.05,2,39,28,50,39,68,104.244,104.594,105.007
+Miami,Balanced,Medium,America,5.412,3.363,0.1,0.07,0.04,16,28,22,39,31,54,90.116,90.448,90.934
+Imola,Top Speed,Low,Europe,4.909,3.05,0.08,0.06,0.04,16,29,21,37,29,51,74.487,74.747,74.984
+Monaco,Downforce,Medium,Europe,3.337,2.074,0.08,0.06,0.04,21,38,27,48,37,66,71.408,71.701,72.018
+Spain,Balanced,Low,Europe,4.657,2.894,0.1,0.06,0.05,13,23,18,32,22,39,74.178,74.633,74.913
+Canada,Top Speed,Low,America,4.361,2.71,0.06,0.04,0.03,25,45,32,57,44,78,73.244,73.473,73.761
+Austria,Top Speed,Low,Europe,4.318,2.683,0.08,0.06,0.04,16,28,20,36,28,49,64.373,64.571,64.822
+Great Britain,Balanced,Low,Europe,5.891,3.661,0.11,0.07,0.05,13,22,18,31,21,37,96.946,97.445,97.739
+Hungary,Downforce,Low,Europe,4.381,2.722,0.11,0.08,0.06,14,25,18,32,25,44,75.759,76.067,76.38
+Belgium,Top Speed,Low,Europe,7.004,4.352,0.09,0.06,0.04,15,27,21,37,29,52,101.152,101.456,101.902
+Netherlands,Downforce,Low,Europe,4.259,2.646,0.08,0.05,0.04,16,29,23,41,27,48,71.388,71.879,72.134
+Monza,Top Speed,Medium,Europe,5.793,3.6,0.07,0.05,0.04,15,28,20,35,27,49,81.139,81.314,81.539
+Singapore,Downforce,Medium,Asia,5.065,3.147,0.13,0.1,0.07,14,25,18,33,25,45,89.699,90.089,90.432
+Japan,Top Speed,Low,Asia,5.807,3.608,0.1,0.06,0.05,14,24,19,34,23,41,88.059,88.554,88.838
+Qatar,Top Speed,Medium,Asia,5.38,3.343,0.12,0.08,0.06,12,21,17,29,20,35,74.256,74.747,75.086
+Texas,Top Speed,Medium,America,5.513,3.426,0.16,0.11,0.07,10,19,14,25,20,36,92.938,93.334,93.839
+Mexico,Downforce,High,America,4.304,2.674,0.08,0.05,0.04,19,34,27,47,37,66,77.293,77.669,78.162
+Brazil,Top Speed,High,America,4.309,2.677,0.07,0.05,0.03,15,27,21,37,29,52,69.02,69.292,69.633
+Las Vegas,Balanced,Medium,America,6.12,3.803,0.1,0.07,0.05,13,24,17,31,24,42,96.26,96.468,96.76
+Abu Dhabi,Top Speed,High,Asia,5.281,3.281,0.11,0.09,0.06,13,24,17,31,24,42,84.494,84.756,85.088
+China,Top Speed,Low,Asia,5.451,3.387,,,,,,,,,,,,
+France,Top Speed,Low,Europe,5.842,3.63,,,,,,,,,,,,
+Portugal,Balanced,Low,Europe,4.653,2.891,,,,,,,,,,,,
